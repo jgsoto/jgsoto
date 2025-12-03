@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Banner superior -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=José+Soto+|+GitHub" alt="Banner">
+</p>
 
-<!--
-**jgsoto/jgsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy José 👋
 
-Here are some ideas to get you started:
+Este es mi repositorio personal. Aquí subo mis proyectos y prácticas de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías ⚙️
+Python • Flask • Tkinter • SQL • Git
+
+📚 Aprendiendo: Docker y APIs
+
+<!-- Badges simples -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
